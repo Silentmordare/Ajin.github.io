@@ -1,3 +1,4 @@
 # Ajin.github.io
-    theme: minima
+THEME:minima
+
     
